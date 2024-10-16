@@ -3,17 +3,72 @@
     {
       "id": "1",
       "name": "Lionel",
-      "surname": "Messi"
+      "surname": "Messi",
+      "email": "lionel.messi@gmail.com",
+      "country": "Argentina"
     }, 
     {
       "id": "2",
       "name": "Cristiano",
-      "surname": "Ronaldo"
+      "surname": "Ronaldo",
+      "email": "cristiano.ronaldo@gmail.com",
+      "country": "Portugal"
     },
     {
-      "id": "2",
-      "name": "Cristiano",
-      "surname": "Ronaldo"
+      "id": "3",
+      "name": "Robert",
+      "surname": "Lewandowski",
+      "email": "robert.lewandowski@gmail.com",
+      "country": "Poland"
+    },
+    {
+      "id": "4",
+      "name": "Zinedine",
+      "surname": "Zidane",
+      "email": "zinedine.zidane@gmail.com",
+      "country": "France"
+    },
+    {
+      "id": "5",
+      "name": "Gerd",
+      "surname": "Muller",
+      "email": "gerd.muller@gmail.com",
+      "country": "Germany"
+    },
+    {
+      "id": "6",
+      "name": "Ronaldo",
+      "surname": "Nazario",
+      "email": "ronaldo.nazario@gmail.com",
+      "country": "Brazil"
+    },
+    {
+      "id": "7",
+      "name": "Michel",
+      "surname": "Platani",
+      "email": "michel.platani@gmail.com",
+      "country": "France"
+    },
+    {
+      "id": "8",
+      "name": "Johan",
+      "surname": "Cruyff",
+      "email": "johan.cruyff@gmail.com",
+      "country": "Netherlands"
+    },
+    {
+      "id": "9",
+      "name": "Diego",
+      "surname": "Maradona",
+      "email": "diego.maradona@gmail.com",
+      "country": "Argentina"
+    },
+    {
+      "id": "10",
+      "name": "Pele",
+      "surname": "Pele",
+      "email": "pele@gmail.com",
+      "country": "Brazil"
     }
   ]
 }
